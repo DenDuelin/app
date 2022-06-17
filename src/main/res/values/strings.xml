@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DenisseDuchen</string>
+    <string name="pic_claveSol"></string>
+    <string name="btPlay">Play</string>
+    <string name="btStop">Stop</string>
+    <string name="btAc1">Activity 2</string>
+    <string name="btAc2">Activity 3</string>
+    <string name="btAc3">Activity 4</string>
+    <string name="insert">Insertar</string>
+    <string name="btnBack">Atrás</string>
+    <string name="btnSelect">Consultar datos</string>
+    <string name="btnFoto">Camara</string>
+    <string name="imgAnimalets">Foto animal</string>
+</resources>
